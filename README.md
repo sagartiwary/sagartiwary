@@ -4,7 +4,11 @@
 # 💫 About Me:
 
 <img align="right" width="500" heigt="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-<br>🌱 I’m currently learning React.js.<br>💬 Ask me about Javascript and React.js<br>⚡ Fun fact  I usually cut jokes.
+<br>🌱 I’m currently learning React.js.<br>💬 Ask me about Javascript and React.js<br>⚡ "Keep your face always toward the sunshine, and shadows will fall behind you. .
+
+<h3>Connect with me :</h3>
+<a href="https://www.linkedin.com/in/sagar-tiwary-6ba248263/" target="blank"><img src="https://img.freepik.com/premium-vector/linkedin-icon_488108-5.jpg?w=50"/></a>
+<a href="https://sagartiwary.github.io/" target="blank"><img width="50" src="https://static.vecteezy.com/system/resources/thumbnails/000/351/686/small/Business__28148_29.jpg?w=50"/></a>
 
 
 # 💻 Tech Stack:
