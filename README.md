@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-<img align="right" width="500" heigt="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" width="600" heigt='200'  src="https://res.cloudinary.com/practicaldev/image/fetch/s--rt5V86sK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--TVrZFUna--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wukog07lt3tvqobbl611.gif">
 <br>🌱 I’m currently learning React.js.<br>💬 Ask me about Javascript and React.js<br>⚡ "Keep your face always toward the sunshine, and shadows will fall behind you. .
 
 <h3>Connect with me :</h3>
