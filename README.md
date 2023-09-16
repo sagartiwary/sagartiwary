@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Sagar Tiwary!
 
 <p align="center">
-  <img src="https://tecxar.io/blog/wp-content/uploads/2023/03/cd59d626dc86397fe45080e6e9c7027d.gif" alt="Sagar Tiwary" width="500" />
+  <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Sagar Tiwary" width="500" />
 </p>
 
 
